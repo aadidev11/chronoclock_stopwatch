@@ -1,2 +1,43 @@
 # chronoclock_stopwatch
-a small stopwatch program i made using tkinter designer by parth jadhav
+
+A sleek stopwatch made in Python, featuring a modern UI generated from a Figma design.  
+The UI is based on the **Material 3 Design Kit** by Material Design (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+
+⚠ **Note:** This is the first version and it doesn’t quite work yet… but hey, that’s what future updates are for.
+
+## Features
+- **Start/Stop toggle** with a single button  
+- **Reset** button to clear time  
+- Clean, modern UI following Material 3 design principles  
+- Modular logic file for easy customization
+
+## Installation & Running
+1. Download this repository as a ZIP and extract it, **or** clone it using Git:  
+   ```bash
+   git clone https://github.com/yourusername/chronocrank.git
+   cd chronocrank
+   ```
+2. Make sure Python 3.9+ is installed (3.10 recommended).  
+3. Tkinter should come pre-installed with Python — if not, install it via your system’s package manager.  
+4. Run the program:  
+   ```bash
+   python gui.py
+   ```
+
+## Usage
+- Click **Start** to begin timing.  
+- Click **Stop** to pause.  
+- Click **Reset** to return to `00:00:00`.
+
+The stopwatch logic is stored in `stopwatch_logic.py`, making it easy to update or expand functionality.
+
+## Screenshot
+*(Add a screenshot of your app here)*
+
+## License
+This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](LICENSE) file for details.
+
+**Credits:**  
+- GUI generated with [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) by Parth Jadhav, licensed under BSD 3-Clause.  
+- Design based on the **Material 3 Design Kit** by Material Design, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+
