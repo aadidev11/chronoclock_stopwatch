@@ -28,6 +28,7 @@ The UI is based on the **Material 3 Design Kit** by Material Design (licensed un
    ```
 
 ## Usage
+- this doesnt yet work now
 - Click **Start** to begin timing.  
 - Click **Stop** to pause.  
 - Click **Reset** to return to `00:00:00`.
