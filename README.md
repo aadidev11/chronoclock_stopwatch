@@ -1,7 +1,8 @@
 <p align="center">
   <img src="logo.png" alt="chronoclock_stopwatch Logo" width="200"/>
 </p>
-## Chronocrank_stopwatch
+
+#  ChronoCrank Stopwatch
 
 A sleek stopwatch made in Python, featuring a modern UI generated from a Figma design.  
 The UI is based on the **Material 3 Design Kit** by Material Design (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
