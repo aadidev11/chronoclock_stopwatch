@@ -8,7 +8,7 @@ The UI is based on the **Material 3 Design Kit** by Material Design (licensed un
 ## Features
 - **Start/Stop toggle** with a single button  
 - **Reset** button to clear time  
-- Clean, modern UI following Material 3 design principles  
+- Clean, modern UI 
 - Modular logic file for easy customization
 
 ## Installation & Running
@@ -36,7 +36,7 @@ This project is licensed under the **GNU General Public License v3.0** — see t
 
 **Credits:**  
 - GUI generated with [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) by Parth Jadhav, licensed under BSD 3-Clause.  
-- Design based on the **Material 3 Design Kit** by Material Design, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+- Design using the **Material 3 Design Kit** by Material Design, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 ## Contributing
 - Feel free to open an issue or submit a pull request to support and improve this project — all help is welcome!
 
