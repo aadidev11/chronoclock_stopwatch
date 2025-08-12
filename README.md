@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="chronoclock_stopwatch Logo" width="200"/>
+</p>
 # chronoclock_stopwatch
 
 A sleek stopwatch made in Python, featuring a modern UI generated from a Figma design.  
